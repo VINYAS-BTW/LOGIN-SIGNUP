@@ -141,20 +141,6 @@ npm run dev
 
 ---
 
-##  API Endpoints
-
-### Auth Routes
-
-| Method | Endpoint     | Description            |
-| ------ | ------------ | ---------------------- |
-| POST   | /auth/signup | Register a new user    |
-| POST   | /auth/login  | Login user and get JWT |
-
-### Protected Example
-
-| Method | Endpoint | Description                    |
-| ------ | -------- | ------------------------------ |
-| GET    | /home    | Protected route (JWT required) |
 
 ---
 
